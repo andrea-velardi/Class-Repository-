@@ -43,11 +43,11 @@ http://smufeb18cohort.slack.com
 
 #### Student Guides
 
-[Week 1](https://github.com/coding-boot-camp/FullStack-Lesson-Plans/blob/master/02-lesson-plans/part-time/01-Week/StudentGuide.md)
+[Week 1](/02-lesson-plans/part-time/01-Week/StudentGuide.md)
 
 #### Video Guides
 
-[Week 1](https://github.com/coding-boot-camp/FullStack-Lesson-Plans/blob/master/02-lesson-plans/part-time/01-Week/VideoGuide.md)
+[Week 1](/02-lesson-plans/part-time/01-Week/VideoGuide.md)
 
 #### Session Videos
 
