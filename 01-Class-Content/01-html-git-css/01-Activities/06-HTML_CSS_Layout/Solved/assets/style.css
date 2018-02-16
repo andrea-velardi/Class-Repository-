@@ -1,9 +1,11 @@
-/*
+/**
+ First External CSS Stylesheet
+ **/
 
+/*
 Each of these CSS elements is associated with an HTML Element, Class, or ID.
 Flip between this CSS file and the HTML to see how things line up.
 Experiment with deleting lines of code from the CSS to see how it affects the webpage when you refresh in the browser.
-
 */
 
 body {
@@ -17,7 +19,7 @@ body {
 }
 
 header {
-  background: #d21034;
+  background: #333;
 }
 
 h1 {
@@ -27,7 +29,6 @@ h1 {
   font-size: 28px;
   color: #eee;
   text-align: center;
-  background: #333;
 }
 
 h2 {
