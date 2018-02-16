@@ -38,8 +38,22 @@ You must give a full effort on every group and individual project.
 
 ## Important Links And Notes
 
+#### Slack
+http://smufeb18cohort.slack.com
 
-[Slack Room insert link here]
+#### Student Guides
+
+[Week 1](https://github.com/coding-boot-camp/FullStack-Lesson-Plans/blob/master/02-lesson-plans/part-time/01-Week/StudentGuide.md)
+
+#### Video Guides
+
+[Week 1](https://github.com/coding-boot-camp/FullStack-Lesson-Plans/blob/master/02-lesson-plans/part-time/01-Week/VideoGuide.md)
+
+#### Session Videos
+
+Sessions may be available from each day. Find them under each "Session" in http://bootcampspot-v2.com.
+
+
 
 -----------------------------------------
 
@@ -53,9 +67,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 -----------------------------------------
 ## Technical Curriculum by Week
 
-Please see bootcampspot-v2.com
-
-##### The material covered in this syllabus is subject to change. Our academic team adjusts to the market rapidly.
+Shown as "Sessions" in http://bootcampspot-v2.com.
 
 -----------------------------------------
 ## Career Curriculum By Week
