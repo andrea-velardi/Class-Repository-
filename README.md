@@ -48,14 +48,14 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 #### Slack
 http://smufeb18cohort.slack.com
 
-#### Activities
-
-[Week 1](/01-Class-Content/01-html-git-css/01-Activities)
-
-
 #### Student Guides
 
 [Week 1](/02-lesson-plans/part-time/01-Week/StudentGuide.md)
+
+
+#### Activities
+
+[Week 1](/01-Class-Content/01-html-git-css/01-Activities)
 
 #### Video Guides
 
