@@ -46,28 +46,30 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 ## Important Links And Notes
 
 #### Slack
+
 http://smufeb18cohort.slack.com
 
 #### Student Guides
 
+Our week goals, homework, slides, and other helpful resources.
+
 [Week 1](/02-lesson-plans/part-time/01-Week/StudentGuide.md)
 
-
 #### Activities
+
+Activities done in class or when asked on your own.
 
 [Week 1](/01-Class-Content/01-html-git-css/01-Activities)
 
 #### Video Guides
+
+Additional videos to get you through the week.
 
 [Week 1](/02-lesson-plans/part-time/01-Week/VideoGuide.md)
 
 #### Session Videos
 
 Sessions may be available from each day. Find them under each "Session" in http://bootcampspot-v2.com.
-
-#### Homework
-
-[Week 1](/01-Class-Content/01-html-git-css/02-Homework/Instructions)
 
 
 -----------------------------------------
