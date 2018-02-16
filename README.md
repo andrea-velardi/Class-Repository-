@@ -65,6 +65,10 @@ http://smufeb18cohort.slack.com
 
 Sessions may be available from each day. Find them under each "Session" in http://bootcampspot-v2.com.
 
+#### Homework
+
+[Week 1](/01-Class-Content/01-html-git-css/02-Homework/Instructions)
+
 
 -----------------------------------------
 ## Technical Curriculum by Week
