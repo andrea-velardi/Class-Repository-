@@ -18,6 +18,8 @@ You must complete **90%** of the homework assignments. (You can miss **no more**
 
 Homework submissions **must be on time AS IS**. Late submissions will not be counted.
 
+##### [SUBMIT YOUR HOMEWORK HERE](http://bootcampspot-v2.com)
+
 
 #### Attendance
 
@@ -35,27 +37,45 @@ You must give a full effort on every group and individual project.
 
 -----------------------------------------
 
+## Office Hours
 
-## Important Links And Notes
-
-
-[Slack Room insert link here]
+Live Office Hours: 45 minutes before class and 30 minutes after class
 
 -----------------------------------------
 
+## Important Links And Notes
 
-[Homework Submission](http://bootcampspot-v2.com)
+#### Slack
 
+http://smufeb18cohort.slack.com
 
-Live Office Hours: 45 minutes before class and 30 minutes after class
+#### Student Guides
+
+Our week goals, homework, slides, and other helpful resources.
+
+[Week 1](/02-lesson-plans/part-time/01-Week/StudentGuide.md)
+
+#### Activities
+
+Activities done in class or when asked on your own.
+
+[Week 1](/01-Class-Content/01-html-git-css/01-Activities)
+
+#### Video Guides
+
+Additional videos to get you through the week.
+
+[Week 1](/02-lesson-plans/part-time/01-Week/VideoGuide.md)
+
+#### Session Videos
+
+Sessions may be available from each day. Find them under each "Session" in http://bootcampspot-v2.com.
 
 
 -----------------------------------------
 ## Technical Curriculum by Week
 
-Please see bootcampspot-v2.com
-
-##### The material covered in this syllabus is subject to change. Our academic team adjusts to the market rapidly.
+Shown as "Sessions" in http://bootcampspot-v2.com.
 
 -----------------------------------------
 ## Career Curriculum By Week
