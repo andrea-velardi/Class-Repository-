@@ -53,22 +53,22 @@ http://smufeb18cohort.slack.com
 
 Our week goals, homework, slides, and other helpful resources.
 
-+[Week 1](/02-lesson-plans/part-time/01-Week/StudentGuide.md)
-+[Week 2](/02-lesson-plans/part-time/02-Week/StudentGuide.md)
++ [Week 1](/02-lesson-plans/part-time/01-Week/StudentGuide.md)
++ [Week 2](/02-lesson-plans/part-time/02-Week/StudentGuide.md)
 
 #### Activities
 
 Activities done in class or when asked on your own.
 
-+[Week 1](/01-Class-Content/01-html-git-css/01-Activities)
-+[Week 2](/01-Class-Content/02-css-bootstrap/01-Activities)
++ [Week 1](/01-Class-Content/01-html-git-css/01-Activities)
++ [Week 2](/01-Class-Content/02-css-bootstrap/01-Activities)
 
 #### Video Guides
 
 Additional videos to get you through the week.
 
-+[Week 1](/02-lesson-plans/part-time/01-Week/VideoGuide.md)
-+[Week 2](/02-lesson-plans/part-time/02-Week/VideoGuide.md)
++ [Week 1](/02-lesson-plans/part-time/01-Week/VideoGuide.md)
++ [Week 2](/02-lesson-plans/part-time/02-Week/VideoGuide.md)
 
 #### Session Videos
 
