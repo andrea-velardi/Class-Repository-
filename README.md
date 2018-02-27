@@ -71,7 +71,7 @@ Additional videos to get you through the week.
 
 + [Week 1](/02-lesson-plans/part-time/01-Week/VideoGuide.md)
 + [Week 2](/02-lesson-plans/part-time/02-Week/VideoGuide.md)
-+ [Week 3](/03-lesson-plans/part-time/03-Week/VideoGuide.md)
++ [Week 3](/02-lesson-plans/part-time/03-Week/VideoGuide.md)
 
 #### Session Videos
 
