@@ -7,7 +7,6 @@ In this week we will be introducing students to their first taste of jQuery. In 
 ### Slide Shows
 
 * [4.1 - jQuery Begins](01-Day/Slide-Shows)
-<!-- * [4.2 - jQuery Jubilee](02-Day/Slide-Shows) -->
 
 ### Homework Activities
 
