@@ -57,7 +57,7 @@ Our week goals, homework, slides, and other helpful resources.
 + [Week 2](/02-lesson-plans/part-time/02-Week/StudentGuide.md)
 + [Week 3](/02-lesson-plans/part-time/03-Week/StudentGuide.md)
 + [Week 4](/02-lesson-plans/part-time/04-Week/StudentGuide.md)
-+ [Week 4](/02-lesson-plans/part-time/05-Week/StudentGuide.md)
++ [Week 5](/02-lesson-plans/part-time/05-Week/StudentGuide.md)
 
 #### Activities
 
