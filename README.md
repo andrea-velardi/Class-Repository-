@@ -16,7 +16,7 @@
 You must complete **90%** of the homework assignments. (You can miss **no more** than **2 assignments**.)
 
 
-Homework submissions are due **before class starts March 13th**! Late submissions will not be counted.
+Homework submissions are due **before class starts March 20th**! Late submissions will not be counted.
 
 ##### [SUBMIT YOUR HOMEWORK HERE](http://bootcampspot-v2.com)
 
